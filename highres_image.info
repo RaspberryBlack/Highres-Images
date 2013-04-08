@@ -1,0 +1,8 @@
+name = Highres Images
+description = Image effect that saves images at double the resolution they'll be displayed while keeping the file size small. Good for both highres (Retina) and normal displays: http://blog.netvlies.nl/design-interactie/retina-revolution/
+; package = Image
+core = 7.x
+
+dependencies[] = image
+; files[] = image_example.test
+
